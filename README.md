@@ -6,13 +6,6 @@
 Sample app
 
 
-## Configuration
-
-- We need Apache CouchDB(IBM Cloudant) server instance as hub server.
-
-  - CORS restriction should be disabled or resolved.
-
-
 ## References
 
 - Official page
